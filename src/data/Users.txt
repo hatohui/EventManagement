@@ -1,0 +1,12 @@
+U674123,Robert Brown,1982-11-26,0856781234,robertbrown@example.com,true
+U481256,Laura Lee,1992-01-30,0823456789,laural@example.com,true
+U492753,Michael Johnson,1975-07-30,0923456789,michaelj@example.com,true
+U304852,Emily Davis,2001-03-14,0845654321,emilyd@example.com,true
+U582047,Linda White,1995-08-10,0867894321,lindaw@example.com,true
+U713489,John Doe,1990-04-22,0912334455,johndoe@example.com,true
+U913274,David Wilson,1978-06-22,0871234567,davidw@example.com,true
+U634589,James Taylor,1985-09-15,0896543210,jamest@example.com,true
+U750839,Sarah Moore,1999-10-05,0889876543,sarahm@example.com,true
+U614000,Hatohui,2005-01-15,0844611668,hatohui@gmail.com,true
+U862031,Jane Smith,1988-12-05,0835678901,janesmith@example.com,true
+U256423,Hermione Granger,2003-09-19,020152814,HermioneGranger@gmail.com,true

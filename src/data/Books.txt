@@ -1,0 +1,19 @@
+B648120,The Da Vinci Code,Dan Brown,2003,Doubleday,9780385504201,false
+B865432,The Great Gatsby,F. Scott Fitzgerald,1925,Charles Scribner's Sons,9780743273565,true
+B729054,War and Peace,Leo Tolstoy,1869,The Russian Messenger,9780199232765,true
+B678853,Harry Potter,JK Rowling,1997,Bloomsbury,9780747532743,false
+B575549,Pride and Prejudice,Pride and Prejudice,1813,T. Egerton,9781503290563,false
+B218240,To Kill a Mockingbird,Harper Lee,1960,J.B. Lippincott & Co.,9780061120084,false
+B781945,1984,George Orwell,1949,Secker & Warburg,9780451524935,true
+B314678,Brave New World,Aldous Huxley,1932,Chatto & Windus,9780060850524,true
+B982312,Moby Dick,Herman Melville,1851,Harper & Brothers,9781503280786,true
+B641865,The Catcher in the Rye,JD Salinger,1951,Little Brown and Company,9780316769488,true
+B233112,The Hobbit,JRR Tolkien,1937,George Allen,9780048230916,false
+B874132,The Shining,Stephen King,1977,Doubleday,9780307743657,false
+B230954,Crime and Punishment,Fyodor Dostoevsky,1866,The Russian Messenger,9781840224306,false
+B159874,Lord of the Flies,William Golding,1954,Faber and Faber,9780399501487,false
+B762094,Gone with the Wind,Margaret Mitchell,1936,Macmillan,9781451635621,false
+C874132,The Shining,Stephen King,2000,Doubleday,9780307743657,false
+C230954,Crime and Punishment,Fyodor Dostoevsky,2001,The Russian Messenger,9781840224306,false
+C159874,Lord of the Flies,William Golding,2002,Faber and Faber,9780399501487,false
+C762094,Gone with the Wind,Margaret Mitchell,2003,Macmillan,9781451635621,false
